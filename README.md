@@ -3,7 +3,7 @@
 
 # test api 
 ## Contact Telegram
-https://t.me/Neo_Galaxy
+https://t.me/alethino
 
 # tiktokapi
 
@@ -22,7 +22,7 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 
 ### contact me
 ## Contact Telegram
-https://t.me/Neo_Galaxy
+https://t.me/alethino
 
 ## tiktok API
 
@@ -51,5 +51,5 @@ https://t.me/Neo_Galaxy
 
 ### contact me
 ## Contact Telegram 
-https://t.me/Neo_Galaxy
+https://t.me/alethino
 
