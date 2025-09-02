@@ -2,7 +2,7 @@
 # captcha solution
 
 # test api 
-## Contact Telegram @Neo_Galaxy
+## Contact Telegram
 https://t.me/Neo_Galaxy
 
 # tiktokapi
@@ -21,7 +21,7 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * Xlog
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
+## Contact Telegram
 https://t.me/Neo_Galaxy
 
 ## tiktok API
@@ -50,6 +50,6 @@ https://t.me/Neo_Galaxy
 22. create accounts
 
 ### contact me
-## Contact Telegram [@Neo_Galaxy] 
+## Contact Telegram 
 https://t.me/Neo_Galaxy
 
