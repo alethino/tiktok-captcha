@@ -71,6 +71,7 @@ class TikTokApi:
             )
             self.width = self.browser.width
             self.height = self.browser.height
+            
             self.region = self.browser.region
             self.language = self.browser.language
         except Exception as e:
